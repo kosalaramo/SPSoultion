@@ -1,0 +1,16 @@
+<web-app>
+<display-name>IPS Configurator System</display-name>
+	<description>
+IPS Configurator System
+	</description>
+
+
+<welcome-file-list>
+<welcome-file>testgraph.jsp</welcome-file>
+<welcome-file>testgraph.jsp</welcome-file>
+</welcome-file-list>
+<session-config>
+      <session-timeout>60</session-timeout> 
+    </session-config>
+
+</web-app>
